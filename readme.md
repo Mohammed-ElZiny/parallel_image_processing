@@ -45,14 +45,20 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 6. **ali gamil ali**
 
 
-##examples:
+###examples:
+#Gaussian Blur
 ![Gaussian Blur](gaussian_blur.jpg)
+#Edge Detection
 ![Edge Detection](edg_detectoin.jpg)
-![Image Rotation](image_rotation.jpg)
+#Image Scaling
 ![Image Scaling](image_scaling.jpg)
+#Histogram Equalization
 ![Histogram Equalization](histogram.jpg)
+#Color Space Conversion
 ![Color Space Conversion](color_space_conv.jpg)
+#Global Thresholding
 ![Global Thresholding](global_thresholding.jpg)
+#Local Thresholding
 ![Local Thresholding](local_thresholding.jpg)
-![Image Compression](image_compression.jpg)
+#Median Filter
 ![Median Filter](median.jpg)
