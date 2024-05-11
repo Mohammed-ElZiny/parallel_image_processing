@@ -46,19 +46,19 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 
 ###examples:
-#Gaussian Blur
-![Gaussian Blur](gaussian_blur.jpg)
-#Edge Detection
-![Edge Detection](edg_detectoin.jpg)
-#Image Scaling
-![Image Scaling](image_scaling.jpg)
-#Histogram Equalization
-![Histogram Equalization](histogram.jpg)
-#Color Space Conversion
-![Color Space Conversion](color_space_conv.jpg)
-#Global Thresholding
-![Global Thresholding](global_thresholding.jpg)
-#Local Thresholding
-![Local Thresholding](local_thresholding.jpg)
-#Median Filter
-![Median Filter](median.jpg)
+-#Gaussian Blur
+*![Gaussian Blur](gaussian_blur.jpg)
+-#Edge Detection
+*![Edge Detection](edg_detectoin.jpg)
+-#Image Scaling
+*![Image Scaling](image_scaling.jpg)
+-#Histogram Equalization
+*![Histogram Equalization](histogram.jpg)
+-#Color Space Conversion
+*![Color Space Conversion](color_space_conv.jpg)
+-#Global Thresholding
+-*![Global Thresholding](global_thresholding.jpg)
+-#Local Thresholding
+*![Local Thresholding](local_thresholding.jpg)
+-#Median Filter
+*![Median Filter](median.jpg)
