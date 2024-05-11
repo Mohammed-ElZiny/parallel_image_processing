@@ -1,0 +1,15 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "enabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "type_traits": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "atomic": "cpp",
+        "condition_variable": "cpp"
+    }
+}

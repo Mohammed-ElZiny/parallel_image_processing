@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/zin/opt/openmpi/bin/",
+                "/usr/bin"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-clang-x64",
+            "browse": {
+                "path": [
+                    "/home/zin/opt/openmpi/bin/",
+                    "/usr/bin/",
+                    "/home/zin/opt/openmpi/bin/"
+                ]
+            }
+        }
+    ],
+    "version": 4
+}
