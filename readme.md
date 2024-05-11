@@ -43,3 +43,16 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 4. **mostafa rady mizar**
 5. **mahmoud abdel-tawab shaban**
 6. **ali gamil ali**
+
+
+##examples:
+![Gaussian Blur](gaussian_blur.jpg)
+![Edge Detection](edg_detectoin.jpg)
+![Image Rotation](image_rotation.jpg)
+![Image Scaling](image_scaling.jpg)
+![Histogram Equalization](histogram.jpg)
+![Color Space Conversion](color_space_conv.jpg)
+![Global Thresholding](global_thresholding.jpg)
+![Local Thresholding](local_thresholding.jpg)
+![Image Compression](image_compression.jpg)
+![Median Filter](median.jpg)
