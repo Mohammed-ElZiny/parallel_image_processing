@@ -18,7 +18,7 @@ This project demonstrates parallel image processing using MPI (Message Passing I
 
 1. Compile the source code using a C++ compiler with OpenCV and MPI support. For example:
 ```
-mpic++ -o mpi_image_processing mpi_image_processing.cpp `pkg-config --cflags --libs opencv4`
+mpic++ -o mpi_image_processing project2.cpp `pkg-config --cflags --libs opencv4`
 ```
 
 2. Run the compiled executable with the desired input image file. For example:
